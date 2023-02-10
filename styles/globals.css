@@ -1,0 +1,24 @@
+
+@font-face {
+  font-family: 'SF Pro Display Bold';
+  src: local('SF Pro Display Bold'), url(/assets/fonts/SFProDisplay-Bold.woff2) format('opentype');
+}
+@font-face {
+  font-family: 'SF Pro Display Medium';
+  src: local('SF Pro Display Medium'), url(/assets/fonts/SFProDisplay-Medium.woff2) format('opentype');
+}
+@font-face {
+  font-family: 'SF Pro Display Regular';
+  src: local('SF Pro Display Regular'), url(/assets/fonts/SFProDisplay-Regular-1.woff2) format('opentype');
+}
+@font-face {
+  font-family: 'SF Pro Display Semibold';
+  src: local('SF Pro Display Semibold'), url(/assets/fonts/SFProDisplay-Semibold.woff2) format('opentype');
+}
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
